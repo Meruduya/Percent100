@@ -47,7 +47,7 @@
                     </execution>
 
                     <execution>
-                        <id>check</id>
+                        <id>report</id>
                         <phase>verify</phase>
                         <goals>
                             <goal>report</goal>
